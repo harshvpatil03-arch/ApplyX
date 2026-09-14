@@ -1,0 +1,33 @@
+{
+  "id": "USER-72DA7BEECB39",
+  "full_name": "Rajmata Hemlatha",
+  "degree": "AIML",
+  "cgpa": 9.0,
+  "graduation_year": 2029,
+  "enrollment_status": "CURRENTLY_ENROLLED",
+  "work_authorization": "Yes",
+  "background_check_status": "PASS",
+  "years_experience": 0,
+  "skills": [
+    "python",
+    "java",
+    "c",
+    "machine learning"
+  ],
+  "projects": [
+    "AI in healthcare"
+  ],
+  "evidence_ledger": {},
+  "email": "user.01@gmail.com",
+  "phone": "1236547890",
+  "location": "India",
+  "linkedin_url": null,
+  "github_url": null,
+  "portfolio_url": null,
+  "college_name": "Vemana IT",
+  "education_history": [],
+  "work_experience": [],
+  "resume_path": "C:\\Users\\harsh\\OneDrive\\Desktop\\ApplyX_newest one\\data\\uploads\\USER-72DA7BEECB39\\resume_cd7fccade154_OCR.txt",
+  "resume_name": "OCR.txt",
+  "profile_photo_path": "C:\\Users\\harsh\\OneDrive\\Desktop\\ApplyX_newest one\\data\\uploads\\USER-72DA7BEECB39\\photo_163ccb21bcca_chips.jpeg"
+}

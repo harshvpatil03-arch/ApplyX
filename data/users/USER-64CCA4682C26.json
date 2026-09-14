@@ -1,0 +1,52 @@
+{
+  "id": "USER-64CCA4682C26",
+  "full_name": "Rajmata Hemlatha",
+  "email": "user.01@gmail.com",
+  "phone": "1236547890",
+  "location": "India",
+  "degree": "machine learning",
+  "college_name": "Vemana IT",
+  "education_history": [
+    {
+      "degree": "B.E.",
+      "college": "",
+      "graduation_year": ""
+    },
+    {
+      "degree": "VIT",
+      "college": "",
+      "graduation_year": ""
+    },
+    {
+      "degree": "2029",
+      "college": "",
+      "graduation_year": ""
+    }
+  ],
+  "cgpa": 9.0,
+  "graduation_year": 2029,
+  "enrollment_status": "CURRENTLY_ENROLLED",
+  "work_authorization": "Yes",
+  "background_check_status": "PASS",
+  "years_experience": 0,
+  "work_experience": [],
+  "skills": [
+    "python",
+    "machine learning",
+    "java",
+    "c",
+    "pytorch",
+    "Playwright",
+    "Linear Algebra"
+  ],
+  "projects": [
+    "AI in healthcare systems"
+  ],
+  "linkedin_url": null,
+  "github_url": null,
+  "portfolio_url": null,
+  "profile_photo_path": "C:\\Users\\harsh\\OneDrive\\Desktop\\ApplyX_newest one\\data\\uploads\\USER-64CCA4682C26\\photo_811265a7e3c4_chips.jpeg",
+  "resume_path": "C:\\Users\\harsh\\OneDrive\\Desktop\\ApplyX_newest one\\data\\uploads\\USER-64CCA4682C26\\resume_38c5b61853fb_OCR.txt",
+  "resume_name": "OCR.txt",
+  "evidence_ledger": {}
+}

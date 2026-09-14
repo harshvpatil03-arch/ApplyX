@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>ApplyX Controlled Portal Fixture</title></head>
+<body>
+  <main>
+    <h1>Controlled ApplyX Test Portal</h1>
+    <form id="appForm">
+      <label>Full name <input id="fullName" name="fullName"></label>
+      <label>Resume <input id="resumeUpload" name="resume" type="file"></label>
+      <button id="submitBtn" type="button">Submit Application</button>
+      <div id="conf" aria-live="polite"></div>
+    </form>
+  </main>
+  <script>
+    document.getElementById('submitBtn').addEventListener('click', function () {
+      document.getElementById('conf').textContent = 'CONF-LIVE-SUCCESS';
+    });
+  </script>
+</body>
+</html>

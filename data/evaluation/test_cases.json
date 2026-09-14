@@ -1,0 +1,980 @@
+{
+  "schema_version": "1.0.0",
+  "cases": [
+    {
+      "id": "TC-01",
+      "category": "CLEAR_APPLY",
+      "name": "Direct AI/ML Intern Match",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch",
+          "Machine Learning",
+          "Linear Algebra"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1,
+        "enrollment_status": "CURRENTLY_ENROLLED",
+        "graduation_year": 2028
+      },
+      "opportunity": {
+        "id": "OPP-TC-01",
+        "title": "Machine Learning Research Intern",
+        "organization": "DeepMind Core Labs",
+        "hard_requirements": [
+          "Python",
+          "B.Tech/BS in CS or AI",
+          "Work authorization required"
+        ],
+        "preferred_requirements": [
+          "PyTorch",
+          "Linear Algebra"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-01"
+    },
+    {
+      "id": "TC-02",
+      "category": "CLEAR_APPLY",
+      "name": "Applied Computer Vision Intern",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "OpenCV",
+          "PyTorch",
+          "Convolutional Networks"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1,
+        "enrollment_status": "CURRENTLY_ENROLLED",
+        "graduation_year": 2028
+      },
+      "opportunity": {
+        "id": "OPP-TC-02",
+        "title": "Computer Vision Engineering Intern",
+        "organization": "VisionTech AI",
+        "hard_requirements": [
+          "Python",
+          "Enrollment in Technical Degree"
+        ],
+        "preferred_requirements": [
+          "OpenCV",
+          "Convolutional Networks"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-02"
+    },
+    {
+      "id": "TC-03",
+      "category": "CLEAR_APPLY",
+      "name": "Python Systems & Automation Intern",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "Playwright",
+          "SQLite",
+          "Git",
+          "Linux"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-03",
+        "title": "Automation Engineering Intern",
+        "organization": "ScaleOps Cloud",
+        "hard_requirements": [
+          "Python",
+          "SQL / Relational Databases"
+        ],
+        "preferred_requirements": [
+          "Playwright",
+          "Git"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-03"
+    },
+    {
+      "id": "TC-04",
+      "category": "CLEAR_APPLY",
+      "name": "Junior Data Science Fellow",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "Statistics",
+          "SQL"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-04",
+        "title": "Junior Data Scientist",
+        "organization": "FinAnalytics Group",
+        "hard_requirements": [
+          "Python",
+          "Work authorization required"
+        ],
+        "preferred_requirements": [
+          "Pandas",
+          "NumPy",
+          "SQL"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-04"
+    },
+    {
+      "id": "TC-05",
+      "category": "CLEAR_APPLY",
+      "name": "Backend Python Apprentice",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "SQLite",
+          "REST APIs",
+          "C"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-05",
+        "title": "Python Backend Intern",
+        "organization": "Nexus Web Systems",
+        "hard_requirements": [
+          "Python",
+          "Relational Database Experience"
+        ],
+        "preferred_requirements": [
+          "REST APIs",
+          "C"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-05"
+    },
+    {
+      "id": "TC-06",
+      "category": "CLEAR_APPLY",
+      "name": "Undergraduate ML Trainee",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "Machine Learning",
+          "Scikit-Learn"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1,
+        "enrollment_status": "CURRENTLY_ENROLLED",
+        "graduation_year": 2028
+      },
+      "opportunity": {
+        "id": "OPP-TC-06",
+        "title": "Student ML Researcher",
+        "organization": "Kaggle Incubator",
+        "hard_requirements": [
+          "Currently enrolled student",
+          "Python"
+        ],
+        "preferred_requirements": [
+          "Scikit-Learn"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-06"
+    },
+    {
+      "id": "TC-07",
+      "category": "CLEAR_SKIP",
+      "name": "Hard Failure: PhD Requirement",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-07",
+        "title": "Lead Research Scientist",
+        "organization": "Frontier AI Labs",
+        "hard_requirements": [
+          "PhD in Computer Science or Artificial Intelligence required"
+        ],
+        "preferred_requirements": [
+          "Published at NeurIPS"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-07"
+    },
+    {
+      "id": "TC-08",
+      "category": "CLEAR_SKIP",
+      "name": "Hard Failure: Cut-off CGPA Deficit",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 5.4,
+        "skills": [
+          "Python",
+          "C++"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-08",
+        "title": "Algorithmic Trading Intern",
+        "organization": "Apex Quant Fund",
+        "hard_requirements": [
+          "Minimum CGPA 7.5 cut-off"
+        ],
+        "preferred_requirements": [
+          "Python",
+          "C++"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-08"
+    },
+    {
+      "id": "TC-09",
+      "category": "CLEAR_SKIP",
+      "name": "Hard Failure: Unauthorized Worker",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "C",
+          "Python"
+        ],
+        "work_authorization": "No",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-09",
+        "title": "Software Defense Intern",
+        "organization": "Defense Dynamics",
+        "hard_requirements": [
+          "Work authorization required without sponsorship"
+        ],
+        "preferred_requirements": [
+          "C",
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-09"
+    },
+    {
+      "id": "TC-10",
+      "category": "CLEAR_SKIP",
+      "name": "Hard Failure: Domain Mismatch (Nursing)",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-10",
+        "title": "Clinical Nursing Intern",
+        "organization": "Metro Health Hospital",
+        "hard_requirements": [
+          "B.Sc Nursing or Medical Licensure required"
+        ],
+        "preferred_requirements": [
+          "BLS Certification"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-10"
+    },
+    {
+      "id": "TC-11",
+      "category": "CLEAR_SKIP",
+      "name": "Hard Failure: 10+ Years Demand",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-11",
+        "title": "Principal Cloud Architect",
+        "organization": "Enterprise Cloud Global",
+        "hard_requirements": [
+          "Minimum 10 years enterprise architecture experience required"
+        ],
+        "preferred_requirements": [
+          "AWS"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-11"
+    },
+    {
+      "id": "TC-12",
+      "category": "CLEAR_SKIP",
+      "name": "Hard Failure: Non-student Graduate",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "C"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1,
+        "enrollment_status": "CURRENTLY_ENROLLED",
+        "graduation_year": 2028
+      },
+      "opportunity": {
+        "id": "OPP-TC-12",
+        "title": "Full-Time Embedded Engineer",
+        "organization": "Tokyo Hardware Co.",
+        "hard_requirements": [
+          "Must have already graduated (no students)"
+        ],
+        "preferred_requirements": [
+          "C"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-12"
+    },
+    {
+      "id": "TC-13",
+      "category": "REVIEW_AMBIGUOUS",
+      "name": "Ambiguous 1-2 Years Experience",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "FastAPI"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 0,
+        "projects": []
+      },
+      "opportunity": {
+        "id": "OPP-TC-13",
+        "title": "Junior Backend Associate",
+        "organization": "Fintech Disrupt",
+        "hard_requirements": [
+          "1-2 years experience or demonstrable production-level student projects",
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "UNCERTAIN",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-13"
+    },
+    {
+      "id": "TC-14",
+      "category": "REVIEW_AMBIGUOUS",
+      "name": "Vague Hybrid Location Expectations",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-14",
+        "title": "Remote ML Apprentice",
+        "organization": "AgileSoft Inc",
+        "hard_requirements": [
+          "Python proficiency"
+        ],
+        "conditional_requirements": [
+          "Remote role with unlisted quarterly on-site expectations subject to manager review"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-14"
+    },
+    {
+      "id": "TC-15",
+      "category": "REVIEW_AMBIGUOUS",
+      "name": "Unspecified Graduation Window Discretion",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "C"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-15",
+        "title": "Software Intern - Summer 2027",
+        "organization": "Silicon Horizons",
+        "hard_requirements": [
+          "C or Python"
+        ],
+        "conditional_requirements": [
+          "Graduating between Winter 2026 and Summer 2028 subject to hiring manager review"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-15"
+    },
+    {
+      "id": "TC-16",
+      "category": "REVIEW_AMBIGUOUS",
+      "name": "Contradictory Visa Sponsorship Funding",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-16",
+        "title": "AI Research Fellow",
+        "organization": "Global Bridge Tech",
+        "hard_requirements": [
+          "Python"
+        ],
+        "conditional_requirements": [
+          "Open to international applicants but visa sponsorship subject to departmental funding"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-16"
+    },
+    {
+      "id": "TC-17",
+      "category": "REVIEW_AMBIGUOUS",
+      "name": "Subjective Cultural Alignment Metric",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "Solidity"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-17",
+        "title": "Web3 ML Intern",
+        "organization": "Decentralized Ventures",
+        "hard_requirements": [
+          "Python"
+        ],
+        "conditional_requirements": [
+          "Strong open-source crypto philosophy depending on founder review"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-17"
+    },
+    {
+      "id": "TC-18",
+      "category": "NEAR_MATCH",
+      "name": "Benchmark: 6/6 Hard, 2/4 Preferred (Fit: 86%)",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch",
+          "Ray",
+          "Docker"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 3
+      },
+      "opportunity": {
+        "id": "OPP-TC-18",
+        "title": "Principal AI Research Engineer",
+        "organization": "Apex Frontier AI",
+        "hard_requirements": [
+          "Bachelor/Master in CS or AI/ML",
+          "3+ Years Python / C++ Experience",
+          "Work Authorization in Jurisdiction",
+          "Minimum 7.5 CGPA / Grade Equivalent",
+          "Deep Learning Framework Proficiency (PyTorch/TensorFlow)",
+          "Pass Background & Integrity Check"
+        ],
+        "preferred_requirements": [
+          "Ray Experience",
+          "Docker Cloud Deployment",
+          "Knowledge of Rust",
+          "Published Paper in NeurIPS"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-18"
+    },
+    {
+      "id": "TC-19",
+      "category": "NEAR_MATCH",
+      "name": "Hard Invariant Trap: 5/6 Hard, 3/4 Preferred",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch",
+          "Ray",
+          "Docker",
+          "Rust"
+        ],
+        "work_authorization": "No",
+        "years_experience": 3
+      },
+      "opportunity": {
+        "id": "OPP-TC-19",
+        "title": "Principal AI Research Engineer",
+        "organization": "Apex Frontier AI",
+        "hard_requirements": [
+          "Bachelor/Master in CS or AI/ML",
+          "3+ Years Python / C++ Experience",
+          "Work Authorization in Jurisdiction",
+          "Minimum 7.5 CGPA / Grade Equivalent",
+          "Deep Learning Framework Proficiency (PyTorch/TensorFlow)",
+          "Pass Background & Integrity Check"
+        ],
+        "preferred_requirements": [
+          "Ray Experience",
+          "Docker Cloud Deployment",
+          "Knowledge of Rust"
+        ]
+      },
+      "expected_formal_eligibility": "NO",
+      "expected_action": "SKIP",
+      "expected_risk": "CRITICAL",
+      "case_id": "TC-19"
+    },
+    {
+      "id": "TC-20",
+      "category": "NEAR_MATCH",
+      "name": "Missing Preferred Cloud Framework (AWS)",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "SQL",
+          "GCP"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-20",
+        "title": "Data Systems Fellow",
+        "organization": "CloudNine Insights",
+        "hard_requirements": [
+          "Python",
+          "SQL",
+          "Work authorization required"
+        ],
+        "preferred_requirements": [
+          "AWS Preferred"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-20"
+    },
+    {
+      "id": "TC-21",
+      "category": "NEAR_MATCH",
+      "name": "Missing Preferred Secondary Language (Go)",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "C"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1,
+        "enrollment_status": "CURRENTLY_ENROLLED"
+      },
+      "opportunity": {
+        "id": "OPP-TC-21",
+        "title": "Infrastructure Intern",
+        "organization": "FastPipeline Corp",
+        "hard_requirements": [
+          "C or Python systems programming",
+          "Enrolled in B.Tech"
+        ],
+        "preferred_requirements": [
+          "Go (Preferred)"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-21"
+    },
+    {
+      "id": "TC-22",
+      "category": "NEAR_MATCH",
+      "name": "Missing Optional Frontend Library (React)",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "FastAPI",
+          "HTML/CSS"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-22",
+        "title": "AI Prototype Engineer Intern",
+        "organization": "FullStack Intel",
+        "hard_requirements": [
+          "Python",
+          "FastAPI or Backend Framework"
+        ],
+        "preferred_requirements": [
+          "React (Nice to have)"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-22"
+    },
+    {
+      "id": "TC-23",
+      "category": "EQUIVALENT_SKILL",
+      "name": "PyTorch for TensorFlow",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch",
+          "NumPy"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-23",
+        "title": "Deep Learning Intern",
+        "organization": "Neural Matrix",
+        "hard_requirements": [
+          "Python",
+          "TensorFlow (or equivalent deep learning framework: PyTorch/JAX)"
+        ],
+        "preferred_requirements": [
+          "NumPy"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-23"
+    },
+    {
+      "id": "TC-24",
+      "category": "EQUIVALENT_SKILL",
+      "name": "Playwright for Selenium",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "Playwright"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-24",
+        "title": "QA Test Automation Intern",
+        "organization": "QualityOps Automation",
+        "hard_requirements": [
+          "Python",
+          "Selenium WebDriver or modern browser automation (Playwright/Cypress)"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-24"
+    },
+    {
+      "id": "TC-25",
+      "category": "EQUIVALENT_SKILL",
+      "name": "C/Rust for C++",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "C",
+          "Rust",
+          "Linux"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-25",
+        "title": "Robotics Firmware Intern",
+        "organization": "Kernel Robotics",
+        "hard_requirements": [
+          "C++ or low-level systems programming (C/Rust acceptable)",
+          "Linux fundamentals"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "APPLY",
+      "expected_risk": "LOW",
+      "case_id": "TC-25"
+    },
+    {
+      "id": "TC-26",
+      "category": "MISSING_INFO",
+      "name": "Missing Work Authorization in KB",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python"
+        ],
+        "work_authorization": null,
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-26",
+        "title": "Junior Data Analyst",
+        "organization": "Federal Data Center",
+        "hard_requirements": [
+          "Work authorization required",
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "UNCERTAIN",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-26"
+    },
+    {
+      "id": "TC-27",
+      "category": "MISSING_INFO",
+      "name": "Missing Graduation Window in Profile",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1,
+        "graduation_year": null
+      },
+      "opportunity": {
+        "id": "OPP-TC-27",
+        "title": "Summer Undergraduate Researcher",
+        "organization": "NextGen University Labs",
+        "hard_requirements": [
+          "Enrolled student graduation 2027 or 2028",
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "UNCERTAIN",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-27"
+    },
+    {
+      "id": "TC-28",
+      "category": "MISSING_INFO",
+      "name": "Missing Official Transcript / Verified CGPA",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": null,
+        "skills": [
+          "Python",
+          "Statistics"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-28",
+        "title": "Risk Modeling Intern",
+        "organization": "Quant Capital Alpha",
+        "hard_requirements": [
+          "Verified minimum CGPA of 8.0 required with transcript submission",
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "UNCERTAIN",
+      "expected_action": "REVIEW",
+      "expected_risk": "MEDIUM",
+      "case_id": "TC-28"
+    },
+    {
+      "id": "TC-29",
+      "category": "DUPLICATE",
+      "name": "Duplicate Opportunity Intake",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "PyTorch"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-01",
+        "title": "Machine Learning Research Intern",
+        "organization": "DeepMind Core Labs",
+        "hard_requirements": [
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "DUPLICATE",
+      "expected_risk": "NONE",
+      "case_id": "TC-29"
+    },
+    {
+      "id": "TC-30",
+      "category": "DUPLICATE",
+      "name": "Duplicate Opportunity Second Attempt",
+      "user_profile": {
+        "id": "USER-HARSH-01",
+        "degree": "B.Tech AI & ML",
+        "cgpa": 8.2,
+        "skills": [
+          "Python",
+          "Playwright"
+        ],
+        "work_authorization": "Yes",
+        "years_experience": 1
+      },
+      "opportunity": {
+        "id": "OPP-TC-03",
+        "title": "Automation Engineering Intern",
+        "organization": "ScaleOps Cloud",
+        "hard_requirements": [
+          "Python"
+        ]
+      },
+      "expected_formal_eligibility": "YES",
+      "expected_action": "DUPLICATE",
+      "expected_risk": "NONE",
+      "case_id": "TC-30"
+    }
+  ]
+}

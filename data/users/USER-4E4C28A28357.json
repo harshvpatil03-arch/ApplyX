@@ -1,0 +1,50 @@
+{
+  "id": "USER-4E4C28A28357",
+  "full_name": "Radha",
+  "email": "Radha@eg.gmail.com",
+  "phone": "7412589633",
+  "location": "India",
+  "degree": "B.E. (AIML)",
+  "college_name": "VIT",
+  "education_history": [
+    {
+      "degree": "B.E.",
+      "college": "",
+      "graduation_year": ""
+    },
+    {
+      "degree": "VIT",
+      "college": "",
+      "graduation_year": ""
+    },
+    {
+      "degree": "2029",
+      "college": "",
+      "graduation_year": ""
+    }
+  ],
+  "cgpa": 8.35,
+  "graduation_year": 2029,
+  "enrollment_status": "CURRENTLY_ENROLLED",
+  "work_authorization": "Yes",
+  "background_check_status": "PASS",
+  "years_experience": 0,
+  "work_experience": [],
+  "skills": [
+    "python",
+    "java",
+    "c",
+    "machine learning",
+    "pytorch"
+  ],
+  "projects": [
+    "AI in healthcare systems"
+  ],
+  "linkedin_url": null,
+  "github_url": null,
+  "portfolio_url": null,
+  "profile_photo_path": null,
+  "resume_path": null,
+  "resume_name": null,
+  "evidence_ledger": {}
+}
