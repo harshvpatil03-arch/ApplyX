@@ -11,7 +11,7 @@ ApplyX is an AI application agent that understands opportunity requirements, ver
 ## 🎥 Demo
 
 **Demo Video:**  
-https://youtu.be/nJQpALBpfhA?si=0mVUAtGo0Yq3wf-e
+https://youtu.be/cJOgdSoghw0?si=Ko7vf9iUb8apQ9Ix
 ---
 
 ## 🚨 Problem
